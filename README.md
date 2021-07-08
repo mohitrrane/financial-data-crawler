@@ -1,4 +1,4 @@
-# fundamental_analyser
+# financial-data-crawler
 This contains the code that automatically download financial statement of a stock
 
 Before running the code, follow the steps
