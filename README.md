@@ -1,5 +1,5 @@
 # fundamental_analyser
-This contains the code that automatically does fundamental analysis of a stock
+This contains the code that automatically download financial statement of a stock
 
 Before running the code, follow the steps
 
